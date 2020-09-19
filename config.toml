@@ -102,3 +102,5 @@ contentDir = 'content/en'
 languageCode = 'en'
 languageName = 'English'
 weight = 0
+
+googleAnalytics = "UA-2774349-8"
