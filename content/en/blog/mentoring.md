@@ -1,9 +1,14 @@
 ---
 title: "Being a mentor"
-subtitle = "My thoughts on being a mentor to more junior developers"
-tags = ['career']
+subtitle: "My thoughts on being a mentor to more junior developers"
+tags:
+  - career
 date: 2020-09-28T09:14:40-04:00
 draft: false
+
+banner: '/img/neonbrand-y_6rqStQBYQ-unsplash.jpg'
+bannerCredit: '<span>Photo by <a href="https://unsplash.com/@neonbrand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NeONBRAND</a> on <a href="https://unsplash.com/s/photos/mentor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>'
+
 ---
 
 I have always considered myself a good and willing mentor for younger
